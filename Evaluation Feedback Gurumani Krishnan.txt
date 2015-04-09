@@ -1,0 +1,16 @@
+Dear Grader,
+Thanks for the feedback. Here are updates to your evaluation. 
+(1) Statistical tests or linear regression models are not described thoroughly, or the reasons for choosing them are not clearly articulated.
+Ans: 
+I have revised the explanation for R^2 value for Question 2.6 & 4.2. Many thanks for clarifying my understanding & for sending me the links!
+
+(2) In your next submission please make sure that the labels in your Ridership by day-of-week plot are visible from the plot and not inserted after and that the days follow their natural order from Monday to Sunday in the X axis.
+Ans: 
+In my 1st project submission,  had labeled my plots using ggplot. However the font size comes out to be very small in the Udacity IDE & is not very clear, when pasted in Word.  After many hours of searching for a fontsize or 'theme' style similar to R, I could not change the font size. If you know of the functionality using GGplot, please let me know. 
+
+In my current line of work, I do a lot of presentations & I insert labels post data analysis, so that people sitting far across the room can view it clearly. 
+
+Anyways, I have replaced the plot Fig:3.2 with labels visible from the plot. Problem Set-4 Code has been modified to order the days from Monday-Sunday. 
+
+Regards,
+Guru
